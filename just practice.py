@@ -23,8 +23,8 @@ The whole project is divided into four major parts, i.e., reading, analysis, vis
     wait = input('Press ENTER to continue.....')         
 
 def made_by():
-    msg=''' Passport Management System made by              : VITARNA SHARMA , ZAINAB MALIK
-            class                                 : Xll-C , XII-G
+    msg=''' Passport Management System made by              : VITARNA SHARMA
+            class                                 : Xll-C
             School Name                           : MEERUT PUBLIC GIRL'S SCHOOL
             session                               : 2021-22
             
