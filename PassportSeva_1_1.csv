@@ -1,0 +1,748 @@
+ServiceName,RpoName,SchemeType,LastWeekCount,LastMonthCount,YearTillDate,Date
+Applications Received - Scheme wise,RPO Ahmedabad,Normal,7174,51414,567081,29:09.8
+Applications Received - Scheme wise,RPO Ahmedabad,Tatkaal,1600,1368,14930,29:09.8
+Applications Received - Gender wise,RPO Ahmedabad,FEMALE,3029,21273,233635,29:09.8
+Applications Received - Gender wise,RPO Ahmedabad,MALE,4305,31498,348282,29:09.8
+Applications with Aadhaar Number,RPO Ahmedabad,Count of Applications,7334,52772,581932,29:09.8
+Applications - Education Wise,RPO Ahmedabad,10TH PASS AND ABOVE,2225,17419,203352,29:09.8
+Applications - Education Wise,RPO Ahmedabad,GRADUATE AND ABOVE,2302,15019,170231,29:09.8
+Applications - Age Wise Wise,RPO Ahmedabad,Between_18_to_35,3161,22963,254217,29:09.8
+Applications - Age Wise Wise,RPO Ahmedabad,Between_36_to_60,2367,17092,188559,29:09.8
+Applications - Age Wise Wise,RPO Ahmedabad,GreaterThan60,570,4440,48648,29:09.8
+Applications - Age Wise Wise,RPO Ahmedabad,LessThan18,1236,8277,90508,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ahmedabad,Challan,1900,2086350,34294600,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ahmedabad,Credit/ Debit Card,6300,42177500,491398700,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ahmedabad,Online,2000,15199750,185946650,29:09.8
+Applications Received - Service Wise,RPO Ahmedabad,FRESH,4294,31846,354535,29:09.8
+Applications Received - Service Wise,RPO Ahmedabad,PCC,5070,2778,26145,29:09.8
+Applications Received - Service Wise,RPO Ahmedabad,REISSUE,2530,18131,201093,29:09.8
+Applications Granted - PV Mode wise,RPO Ahmedabad,No Verification,1920,6794,78966,29:09.8
+Applications Granted - PV Mode wise,RPO Ahmedabad,Post Verification,1238,9208,96076,29:09.8
+Applications Granted - PV Mode wise,RPO Ahmedabad,Pre Verification,4383,33793,364867,29:09.8
+PV Processing Time,RPO Ahmedabad,Within 21 Days,7426,39291,404300,29:09.8
+Applications Received - Scheme wise,RPO Amritsar,Normal,3057,16509,184432,29:09.8
+Applications Received - Gender wise,RPO Amritsar,FEMALE,1199,6583,72810,29:09.8
+Applications Received - Gender wise,RPO Amritsar,MALE,1882,10103,113589,29:09.8
+Applications with Aadhaar Number,RPO Amritsar,Count of Applications,3081,16686,186406,29:09.8
+Applications - Education Wise,RPO Amritsar,10TH PASS AND ABOVE,1701,9159,105915,29:09.8
+Applications - Education Wise,RPO Amritsar,GRADUATE AND ABOVE,3860,1931,20564,29:09.8
+Applications - Age Wise Wise,RPO Amritsar,Between_18_to_35,1696,9227,107351,29:09.8
+Applications - Age Wise Wise,RPO Amritsar,Between_36_to_60,817,4434,47720,29:09.8
+Applications - Age Wise Wise,RPO Amritsar,GreaterThan60,1800,950,9764,29:09.8
+Applications - Age Wise Wise,RPO Amritsar,LessThan18,3895,2075,21571,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Amritsar,Challan,2500,211950,3112650,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Amritsar,Credit/ Debit Card,2689,11335900,117887500,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Amritsar,Online,2548,7913850,105814250,29:09.8
+Applications Received - Service Wise,RPO Amritsar,FRESH,2002,11254,128051,29:09.8
+Applications Received - Service Wise,RPO Amritsar,PCC,2555,1088,10015,29:09.8
+Applications Received - Service Wise,RPO Amritsar,REISSUE,2846,4343,48331,29:09.8
+Applications Granted - PV Mode wise,RPO Amritsar,No Verification,1130,375,3647,29:09.8
+Applications Granted - PV Mode wise,RPO Amritsar,Post Verification,1820,962,11880,29:09.8
+Applications Granted - PV Mode wise,RPO Amritsar,Pre Verification,2348,13938,155723,29:09.8
+PV Processing Time,RPO Amritsar,More than 21 Days,7956,3908,34645,29:09.8
+PV Processing Time,RPO Amritsar,Within 21 Days,3049,13168,135535,29:09.8
+Applications Received - Scheme wise,RPO Bangalore,Normal,5473,15473,57000,03:38.8
+Applications Received - Scheme wise,RPO Bangalore,Tatkaal,923,923,4071,03:38.8
+Applications Received - Gender wise,RPO Bangalore,FEMALE,6642,6642,25471,03:38.8
+Applications Received - Gender wise,RPO Bangalore,MALE,9752,9752,38069,03:38.8
+Applications with Aadhaar Number,RPO Bangalore,Count of Applications,6985,16394,63540,03:38.8
+Applications - Education Wise,RPO Bangalore,10TH PASS AND ABOVE,5070,5070,19490,03:38.8
+Applications - Education Wise,RPO Bangalore,5TH PASS OR LESS,3512,3512,13588,03:38.8
+Applications - Education Wise,RPO Bangalore,BETWEEN 6TH AND 9TH STANDARD,2078,2078,7699,03:38.8
+Applications - Education Wise,RPO Bangalore,GRADUATE AND ABOVE,5730,5730,22712,03:38.8
+Applications - Age Wise Wise,RPO Bangalore,Between_18_to_35,7653,7653,29491,03:38.8
+Applications - Age Wise Wise,RPO Bangalore,Between_36_to_60,4923,4923,18658,03:38.8
+Applications - Age Wise Wise,RPO Bangalore,GreaterThan60,1398,1398,5584,03:38.8
+Applications - Age Wise Wise,RPO Bangalore,LessThan18,2420,2420,9807,03:38.8
+Application Fee Online Payment - Mode Wise,RPO Bangalore,Challan,2658,2682000,12427000,03:38.8
+Application Fee Online Payment - Mode Wise,RPO Bangalore,Credit/ Debit Card,2546,12291000,63429500,03:38.8
+Application Fee Online Payment - Mode Wise,RPO Bangalore,Online,8952,6147500,29784000,03:38.8
+Applications Received - Service Wise,RPO Bangalore,FRESH,9603,9603,35845,03:38.8
+Applications Received - Service Wise,RPO Bangalore,PCC,3298,329,1276,03:38.8
+Applications Received - Service Wise,RPO Bangalore,REISSUE,6462,6462,23942,03:38.8
+Applications Granted - PV Mode wise,RPO Bangalore,No Verification,5361,5361,21698,03:38.8
+Applications Granted - PV Mode wise,RPO Bangalore,Post Verification,1062,1062,4149,03:38.8
+Applications Granted - PV Mode wise,RPO Bangalore,Pre Verification,9169,9169,34223,03:38.8
+PV Processing Time,RPO Bangalore,More than 21 Days,3242,3242,17857,03:38.8
+PV Processing Time,RPO Bangalore,Within 21 Days,3703,3703,18644,03:38.8
+Applications Received - Scheme wise,RPO Bareilly,Normal,3859,14304,123862,29:09.8
+Applications Received - Scheme wise,RPO Bareilly,Tatkaal,7789,327,2415,29:09.8
+Applications Received - Gender wise,RPO Bareilly,FEMALE,1099,4068,33311,29:09.8
+Applications Received - Gender wise,RPO Bareilly,MALE,2837,10562,92959,29:09.8
+Applications with Aadhaar Number,RPO Bareilly,Count of Applications,3936,14631,126276,29:09.8
+Applications - Education Wise,RPO Bareilly,10TH PASS AND ABOVE,5484,3352,32204,29:09.8
+Applications - Education Wise,RPO Bareilly,GRADUATE AND ABOVE,5646,2146,20977,29:09.8
+Applications - Age Wise Wise,RPO Bareilly,Between_18_to_35,2254,8539,77770,29:09.8
+Applications - Age Wise Wise,RPO Bareilly,Between_36_to_60,1035,3712,30460,29:09.8
+Applications - Age Wise Wise,RPO Bareilly,GreaterThan60,4585,1475,9524,29:09.8
+Applications - Age Wise Wise,RPO Bareilly,LessThan18,2479,905,8522,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bareilly,Challan,5600,138800,1867200,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bareilly,Credit/ Debit Card,8961,9101300,82042250,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bareilly,Online,9856,8614250,84169300,29:09.8
+Applications Received - Service Wise,RPO Bareilly,FRESH,3268,11825,98905,29:09.8
+Applications Received - Service Wise,RPO Bareilly,PCC,7843,734,7421,29:09.8
+Applications Received - Service Wise,RPO Bareilly,REISSUE,8613,2071,19940,29:09.8
+Applications Granted - PV Mode wise,RPO Bareilly,No Verification,8711,981,10305,29:09.8
+Applications Granted - PV Mode wise,RPO Bareilly,Post Verification,2578,781,7547,29:09.8
+Applications Granted - PV Mode wise,RPO Bareilly,Pre Verification,2700,11162,85928,29:09.8
+PV Processing Time,RPO Bareilly,More than 21 Days,1254,636,6140,29:09.8
+PV Processing Time,RPO Bareilly,Within 21 Days,2038,11364,97488,29:09.8
+Applications Received - Scheme wise,RPO Bhopal,Normal,3999,18394,181265,29:09.8
+Applications Received - Scheme wise,RPO Bhopal,Tatkaal,8942,459,6444,29:09.8
+Applications Received - Gender wise,RPO Bhopal,FEMALE,1654,7548,74330,29:09.8
+Applications Received - Gender wise,RPO Bhopal,MALE,2453,11303,113358,29:09.8
+Applications with Aadhaar Number,RPO Bhopal,Count of Applications,4108,18853,187707,29:09.8
+Applications - Education Wise,RPO Bhopal,10TH PASS AND ABOVE,1111,5038,53017,29:09.8
+Applications - Education Wise,RPO Bhopal,GRADUATE AND ABOVE,1543,6472,69051,29:09.8
+Applications - Age Wise Wise,RPO Bhopal,Between_18_to_35,2032,8812,89473,29:09.8
+Applications - Age Wise Wise,RPO Bhopal,Between_36_to_60,1225,5976,58513,29:09.8
+Applications - Age Wise Wise,RPO Bhopal,GreaterThan60,1545,1677,16703,29:09.8
+Applications - Age Wise Wise,RPO Bhopal,LessThan18,5873,2388,23018,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bhopal,Challan,6920,275850,4817450,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bhopal,Credit/ Debit Card,2653,10870550,119001300,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bhopal,Online,24545,10466350,118309250,29:09.8
+Applications Received - Service Wise,RPO Bhopal,FRESH,3111,14632,145983,29:09.8
+Applications Received - Service Wise,RPO Bhopal,PCC,63,273,2876,29:09.8
+Applications Received - Service Wise,RPO Bhopal,REISSUE,931,3937,38783,29:09.8
+Applications Granted - PV Mode wise,RPO Bhopal,No Verification,164,602,7715,29:09.8
+Applications Granted - PV Mode wise,RPO Bhopal,Post Verification,505,2049,19528,29:09.8
+Applications Granted - PV Mode wise,RPO Bhopal,Pre Verification,3243,14053,135317,29:09.8
+PV Processing Time,RPO Bhopal,More than 21 Days,312,1699,14094,29:09.8
+PV Processing Time,RPO Bhopal,Within 21 Days,3507,13456,143092,29:09.8
+Applications Received - Scheme wise,RPO Bhubaneswar,Normal,2092,9521,94299,29:09.8
+Applications Received - Scheme wise,RPO Bhubaneswar,Tatkaal,152,593,6058,29:09.8
+Applications Received - Gender wise,RPO Bhubaneswar,FEMALE,570,2712,27586,29:09.8
+Applications Received - Gender wise,RPO Bhubaneswar,MALE,1674,7402,72769,29:09.8
+Applications with Aadhaar Number,RPO Bhubaneswar,Count of Applications,2244,10114,100357,29:09.8
+Applications - Education Wise,RPO Bhubaneswar,10TH PASS AND ABOVE,820,3532,34676,29:09.8
+Applications - Education Wise,RPO Bhubaneswar,GRADUATE AND ABOVE,855,3985,39229,29:09.8
+Applications - Age Wise Wise,RPO Bhubaneswar,Between_18_to_35,1337,5748,57475,29:09.8
+Applications - Age Wise Wise,RPO Bhubaneswar,Between_36_to_60,629,2937,28918,29:09.8
+Applications - Age Wise Wise,RPO Bhubaneswar,GreaterThan60,104,527,5561,29:09.8
+Applications - Age Wise Wise,RPO Bhubaneswar,LessThan18,174,902,8403,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bhubaneswar,Challan,40300,128550,1780650,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bhubaneswar,Credit/ Debit Card,1591700,7562300,72915150,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Bhubaneswar,Online,1272450,5291300,56274850,29:09.8
+Applications Received - Service Wise,RPO Bhubaneswar,FRESH,1651,7804,76597,29:09.8
+Applications Received - Service Wise,RPO Bhubaneswar,PCC,167,461,4952,29:09.8
+Applications Received - Service Wise,RPO Bhubaneswar,REISSUE,426,1849,18787,29:09.8
+Applications Granted - PV Mode wise,RPO Bhubaneswar,No Verification,234,847,9942,29:09.8
+Applications Granted - PV Mode wise,RPO Bhubaneswar,Post Verification,296,1187,11486,29:09.8
+Applications Granted - PV Mode wise,RPO Bhubaneswar,Pre Verification,1117,5326,53037,29:09.8
+PV Processing Time,RPO Bhubaneswar,More than 21 Days,482,2648,32987,29:09.8
+PV Processing Time,RPO Bhubaneswar,Within 21 Days,1203,4685,42588,29:09.8
+Applications Received - Scheme wise,RPO Chandigarh,Normal,10580,53975,594038,29:09.8
+Applications Received - Scheme wise,RPO Chandigarh,Tatkaal,279,1386,19821,29:09.8
+Applications Received - Gender wise,RPO Chandigarh,FEMALE,4281,21741,240137,29:09.8
+Applications Received - Gender wise,RPO Chandigarh,MALE,6573,33603,373559,29:09.8
+Applications with Aadhaar Number,RPO Chandigarh,Count of Applications,10854,55346,613725,29:09.8
+Applications - Education Wise,RPO Chandigarh,10TH PASS AND ABOVE,4597,24836,280592,29:09.8
+Applications - Education Wise,RPO Chandigarh,GRADUATE AND ABOVE,2768,12799,140598,29:09.8
+Applications - Age Wise Wise,RPO Chandigarh,Between_18_to_35,5570,28839,322599,29:09.8
+Applications - Age Wise Wise,RPO Chandigarh,Between_36_to_60,2843,14691,165209,29:09.8
+Applications - Age Wise Wise,RPO Chandigarh,GreaterThan60,717,3531,36368,29:09.8
+Applications - Age Wise Wise,RPO Chandigarh,LessThan18,1724,8285,89549,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Chandigarh,Challan,226050,969450,18304600,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Chandigarh,Credit/ Debit Card,8505600,36531550,451158300,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Chandigarh,Online,3648350,16970650,238233900,29:09.8
+Applications Received - Service Wise,RPO Chandigarh,FRESH,6998,36371,410603,29:09.8
+Applications Received - Service Wise,RPO Chandigarh,PCC,610,2835,25025,29:09.8
+Applications Received - Service Wise,RPO Chandigarh,REISSUE,3243,16125,178000,29:09.8
+Applications Granted - PV Mode wise,RPO Chandigarh,No Verification,215,978,11055,29:09.8
+Applications Granted - PV Mode wise,RPO Chandigarh,Post Verification,1170,5373,80039,29:09.8
+Applications Granted - PV Mode wise,RPO Chandigarh,Pre Verification,8710,49075,477541,29:09.8
+PV Processing Time,RPO Chandigarh,More than 21 Days,2277,10079,103290,29:09.8
+PV Processing Time,RPO Chandigarh,Within 21 Days,8612,41495,420028,29:09.8
+Applications Received - Scheme wise,RPO Chennai,Normal,10355,40399,406708,29:09.8
+Applications Received - Scheme wise,RPO Chennai,Tatkaal,291,1104,11192,29:09.8
+Applications Received - Gender wise,RPO Chennai,FEMALE,4261,16359,162490,29:09.8
+Applications Received - Gender wise,RPO Chennai,MALE,6381,25135,255301,29:09.8
+Applications with Aadhaar Number,RPO Chennai,Count of Applications,10643,41497,417814,29:09.8
+Applications - Education Wise,RPO Chennai,10TH PASS AND ABOVE,2830,11222,117429,29:09.8
+Applications - Education Wise,RPO Chennai,GRADUATE AND ABOVE,4432,17237,176264,29:09.8
+Applications - Age Wise Wise,RPO Chennai,Between_18_to_35,4443,18767,203874,29:09.8
+Applications - Age Wise Wise,RPO Chennai,Between_36_to_60,3478,12887,120555,29:09.8
+Applications - Age Wise Wise,RPO Chennai,GreaterThan60,553,2765,31142,29:09.8
+Applications - Age Wise Wise,RPO Chennai,LessThan18,2169,7078,62243,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Chennai,Challan,50000,334700,4779000,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Chennai,Credit/ Debit Card,8776700,36328750,294487450,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Chennai,Online,2429700,11416750,131722650,29:09.8
+Applications Received - Service Wise,RPO Chennai,FRESH,7073,25365,244894,29:09.8
+Applications Received - Service Wise,RPO Chennai,PCC,368,1808,18557,29:09.8
+Applications Received - Service Wise,RPO Chennai,REISSUE,3192,14292,154043,29:09.8
+Applications Granted - PV Mode wise,RPO Chennai,No Verification,1316,6197,69329,29:09.8
+Applications Granted - PV Mode wise,RPO Chennai,Post Verification,1385,6235,68535,29:09.8
+Applications Granted - PV Mode wise,RPO Chennai,Pre Verification,5961,21902,220235,29:09.8
+PV Processing Time,RPO Chennai,More than 21 Days,50,302,4526,29:09.8
+PV Processing Time,RPO Chennai,Within 21 Days,6499,24334,263251,29:09.8
+Applications Received - Scheme wise,RPO Cochin,Normal,9526,44951,424279,29:09.8
+Applications Received - Scheme wise,RPO Cochin,Tatkaal,466,2277,22180,29:09.8
+Applications Received - Gender wise,RPO Cochin,FEMALE,4527,20414,195651,29:09.8
+Applications Received - Gender wise,RPO Cochin,MALE,5465,26806,250732,29:09.8
+Applications with Aadhaar Number,RPO Cochin,Count of Applications,9992,47220,446383,29:09.8
+Applications - Education Wise,RPO Cochin,10TH PASS AND ABOVE,4384,21436,201585,29:09.8
+Applications - Education Wise,RPO Cochin,GRADUATE AND ABOVE,2527,11212,108253,29:09.8
+Applications - Age Wise Wise,RPO Cochin,Between_18_to_35,4837,22907,215885,29:09.8
+Applications - Age Wise Wise,RPO Cochin,Between_36_to_60,2781,12966,118662,29:09.8
+Applications - Age Wise Wise,RPO Cochin,GreaterThan60,799,3822,36178,29:09.8
+Applications - Age Wise Wise,RPO Cochin,LessThan18,1575,7525,75658,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Cochin,Challan,158100,867300,7707850,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Cochin,Credit/ Debit Card,4976100,24274950,209132900,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Cochin,Online,6804650,31077050,312195900,29:09.8
+Applications Received - Service Wise,RPO Cochin,FRESH,5106,24376,230486,29:09.8
+Applications Received - Service Wise,RPO Cochin,PCC,1025,4467,39308,29:09.8
+Applications Received - Service Wise,RPO Cochin,REISSUE,3859,18371,176519,29:09.8
+Applications Granted - PV Mode wise,RPO Cochin,No Verification,2341,10941,107520,29:09.8
+Applications Granted - PV Mode wise,RPO Cochin,Post Verification,2124,10216,92496,29:09.8
+Applications Granted - PV Mode wise,RPO Cochin,Pre Verification,5133,24614,227686,29:09.8
+PV Processing Time,RPO Cochin,Within 21 Days,5750,25366,238027,29:09.8
+Applications Received - Scheme wise,RPO Coimbatore,Normal,2557,12432,143869,29:09.8
+Applications Received - Scheme wise,RPO Coimbatore,Tatkaal,43,184,2330,29:09.8
+Applications Received - Gender wise,RPO Coimbatore,FEMALE,1021,4919,57990,29:09.8
+Applications Received - Gender wise,RPO Coimbatore,MALE,1579,7693,88195,29:09.8
+Applications with Aadhaar Number,RPO Coimbatore,Count of Applications,2600,12613,146187,29:09.8
+Applications - Education Wise,RPO Coimbatore,10TH PASS AND ABOVE,686,3545,44204,29:09.8
+Applications - Education Wise,RPO Coimbatore,GRADUATE AND ABOVE,1173,5292,61179,29:09.8
+Applications - Age Wise Wise,RPO Coimbatore,Between_18_to_35,1328,6106,73594,29:09.8
+Applications - Age Wise Wise,RPO Coimbatore,Between_36_to_60,683,3658,41701,29:09.8
+Applications - Age Wise Wise,RPO Coimbatore,GreaterThan60,147,888,11262,29:09.8
+Applications - Age Wise Wise,RPO Coimbatore,LessThan18,442,1961,19630,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Coimbatore,Challan,34800,123700,1713550,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Coimbatore,Credit/ Debit Card,2083950,9450950,104667050,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Coimbatore,Online,890000,4233200,54420950,29:09.8
+Applications Received - Service Wise,RPO Coimbatore,FRESH,1662,8340,99594,29:09.8
+Applications Received - Service Wise,RPO Coimbatore,PCC,76,387,3970,29:09.8
+Applications Received - Service Wise,RPO Coimbatore,REISSUE,861,3882,42548,29:09.8
+Applications Granted - PV Mode wise,RPO Coimbatore,No Verification,417,1733,23716,29:09.8
+Applications Granted - PV Mode wise,RPO Coimbatore,Post Verification,388,1989,17601,29:09.8
+Applications Granted - PV Mode wise,RPO Coimbatore,Pre Verification,1364,6669,82943,29:09.8
+PV Processing Time,RPO Coimbatore,Within 21 Days,1990,8458,98145,29:09.8
+Applications Received - Scheme wise,RPO Dehradun,Normal,2090,8345,90228,29:09.8
+Applications Received - Gender wise,RPO Dehradun,FEMALE,675,2589,28359,29:09.8
+Applications Received - Gender wise,RPO Dehradun,MALE,1437,5847,62664,29:09.8
+Applications with Aadhaar Number,RPO Dehradun,Count of Applications,2112,8436,91026,29:09.8
+Applications - Education Wise,RPO Dehradun,10TH PASS AND ABOVE,736,2872,32719,29:09.8
+Applications - Education Wise,RPO Dehradun,GRADUATE AND ABOVE,734,2866,30400,29:09.8
+Applications - Age Wise Wise,RPO Dehradun,Between_18_to_35,1318,5128,54331,29:09.8
+Applications - Age Wise Wise,RPO Dehradun,Between_36_to_60,458,1987,21983,29:09.8
+Applications - Age Wise Wise,RPO Dehradun,GreaterThan60,143,571,6459,29:09.8
+Applications - Age Wise Wise,RPO Dehradun,LessThan18,193,750,8253,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Dehradun,Challan,47350,236500,3411450,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Dehradun,Credit/ Debit Card,1457550,6650650,72813950,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Dehradun,Online,752850,3285750,43221100,29:09.8
+Applications Received - Service Wise,RPO Dehradun,FRESH,1549,6249,67115,29:09.8
+Applications Received - Service Wise,RPO Dehradun,PCC,67,375,4192,29:09.8
+Applications Received - Service Wise,RPO Dehradun,REISSUE,495,1811,19699,29:09.8
+Applications Granted - PV Mode wise,RPO Dehradun,No Verification,50,369,4397,29:09.8
+Applications Granted - PV Mode wise,RPO Dehradun,Post Verification,86,638,8516,29:09.8
+Applications Granted - PV Mode wise,RPO Dehradun,Pre Verification,322,5345,69294,29:09.8
+PV Processing Time,RPO Dehradun,More than 21 Days,137,654,9693,29:09.8
+PV Processing Time,RPO Dehradun,Within 21 Days,1460,7157,69890,29:09.8
+Applications Received - Scheme wise,RPO Delhi,Normal,8682,42993,509807,29:09.8
+Applications Received - Scheme wise,RPO Delhi,Tatkaal,932,4142,56603,29:09.8
+Applications Received - Gender wise,RPO Delhi,FEMALE,3840,18253,228179,29:09.8
+Applications Received - Gender wise,RPO Delhi,MALE,5770,28861,338093,29:09.8
+Applications with Aadhaar Number,RPO Delhi,Count of Applications,9611,47118,566301,29:09.8
+Applications - Education Wise,RPO Delhi,10TH PASS AND ABOVE,2625,13351,164787,29:09.8
+Applications - Education Wise,RPO Delhi,GRADUATE AND ABOVE,4419,21715,259227,29:09.8
+Applications - Age Wise Wise,RPO Delhi,Between_18_to_35,4605,23263,271122,29:09.8
+Applications - Age Wise Wise,RPO Delhi,Between_36_to_60,2612,12960,161817,29:09.8
+Applications - Age Wise Wise,RPO Delhi,GreaterThan60,686,3465,41037,29:09.8
+Applications - Age Wise Wise,RPO Delhi,LessThan18,1708,7430,92325,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Delhi,Challan,99050,554600,8952900,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Delhi,Credit/ Debit Card,10111150,45056950,564605600,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Delhi,Online,1829200,8698950,113212700,29:09.8
+Applications Received - Service Wise,RPO Delhi,FRESH,5487,27734,326780,29:09.8
+Applications Received - Service Wise,RPO Delhi,PCC,301,1465,16516,29:09.8
+Applications Received - Service Wise,RPO Delhi,REISSUE,3807,17869,222488,29:09.8
+Applications Granted - PV Mode wise,RPO Delhi,No Verification,344,1601,24782,29:09.8
+Applications Granted - PV Mode wise,RPO Delhi,Post Verification,2104,10044,122422,29:09.8
+Applications Granted - PV Mode wise,RPO Delhi,Pre Verification,7861,33099,363928,29:09.8
+PV Processing Time,RPO Delhi,More than 21 Days,568,1565,9815,29:09.8
+PV Processing Time,RPO Delhi,Within 21 Days,6745,36024,395839,29:09.8
+Applications Received - Scheme wise,RPO Ghaziabad,Normal,4583,23682,220269,29:09.8
+Applications Received - Scheme wise,RPO Ghaziabad,Tatkaal,176,898,11213,29:09.8
+Applications Received - Gender wise,RPO Ghaziabad,FEMALE,1610,7888,77568,29:09.8
+Applications Received - Gender wise,RPO Ghaziabad,MALE,3149,16692,153888,29:09.8
+Applications with Aadhaar Number,RPO Ghaziabad,Count of Applications,4759,24580,231469,29:09.8
+Applications - Education Wise,RPO Ghaziabad,10TH PASS AND ABOVE,1149,6055,59209,29:09.8
+Applications - Education Wise,RPO Ghaziabad,GRADUATE AND ABOVE,1602,8636,86564,29:09.8
+Applications - Age Wise Wise,RPO Ghaziabad,Between_18_to_35,2609,13565,122644,29:09.8
+Applications - Age Wise Wise,RPO Ghaziabad,Between_36_to_60,1259,6479,64407,29:09.8
+Applications - Age Wise Wise,RPO Ghaziabad,GreaterThan60,317,1748,16427,29:09.8
+Applications - Age Wise Wise,RPO Ghaziabad,LessThan18,574,2788,27991,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ghaziabad,Challan,86550,508500,6732000,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ghaziabad,Credit/ Debit Card,3666050,18299300,194638200,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ghaziabad,Online,1552050,8050800,86680550,29:09.8
+Applications Received - Service Wise,RPO Ghaziabad,FRESH,3442,17816,161366,29:09.8
+Applications Received - Service Wise,RPO Ghaziabad,PCC,127,678,6978,29:09.8
+Applications Received - Service Wise,RPO Ghaziabad,REISSUE,1187,6075,63040,29:09.8
+Applications Granted - PV Mode wise,RPO Ghaziabad,No Verification,275,1231,13887,29:09.8
+Applications Granted - PV Mode wise,RPO Ghaziabad,Post Verification,623,2879,34204,29:09.8
+Applications Granted - PV Mode wise,RPO Ghaziabad,Pre Verification,3478,16491,174812,29:09.8
+PV Processing Time,RPO Ghaziabad,More than 21 Days,438,1553,21997,29:09.8
+PV Processing Time,RPO Ghaziabad,Within 21 Days,2855,17485,164136,29:09.8
+Applications Received - Scheme wise,RPO Goa,Normal,1013,4398,49077,29:09.8
+Applications Received - Scheme wise,RPO Goa,Tatkaal,35,142,1296,29:09.8
+Applications Received - Gender wise,RPO Goa,FEMALE,435,1915,21182,29:09.8
+Applications Received - Gender wise,RPO Goa,MALE,562,2423,26601,29:09.8
+Applications with Aadhaar Number,RPO Goa,Count of Applications,997,4338,47783,29:09.8
+Applications - Education Wise,RPO Goa,10TH PASS AND ABOVE,394,1776,19654,29:09.8
+Applications - Education Wise,RPO Goa,GRADUATE AND ABOVE,265,1140,11725,29:09.8
+Applications - Age Wise Wise,RPO Goa,Between_18_to_35,398,2035,20751,29:09.8
+Applications - Age Wise Wise,RPO Goa,Between_36_to_60,300,1294,14821,29:09.8
+Applications - Age Wise Wise,RPO Goa,GreaterThan60,76,376,4481,29:09.8
+Applications - Age Wise Wise,RPO Goa,LessThan18,223,633,7730,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Goa,Challan,200300,619750,9066000,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Goa,Credit/ Debit Card,991600,4000950,43790750,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Goa,Online,317050,1536650,17061650,29:09.8
+Applications Received - Service Wise,RPO Goa,FRESH,432,2099,23544,29:09.8
+Applications Received - Service Wise,RPO Goa,PCC,82,351,2842,29:09.8
+Applications Received - Service Wise,RPO Goa,REISSUE,483,1888,21392,29:09.8
+Applications Granted - PV Mode wise,RPO Goa,No Verification,234,698,8127,29:09.8
+Applications Granted - PV Mode wise,RPO Goa,Post Verification,190,808,8179,29:09.8
+Applications Granted - PV Mode wise,RPO Goa,Pre Verification,450,2261,24688,29:09.8
+PV Processing Time,RPO Goa,Within 21 Days,700,2996,29802,29:09.8
+Applications Received - Scheme wise,RPO Guwahati,Normal,2976,12045,113081,29:09.8
+Applications Received - Scheme wise,RPO Guwahati,Tatkaal,197,1354,11196,29:09.8
+Applications Received - Gender wise,RPO Guwahati,FEMALE,1159,5046,47510,29:09.8
+Applications Received - Gender wise,RPO Guwahati,MALE,2014,8353,76763,29:09.8
+Applications with Aadhaar Number,RPO Guwahati,Count of Applications,3173,13399,124276,29:09.8
+Applications - Education Wise,RPO Guwahati,10TH PASS AND ABOVE,1031,4439,44480,29:09.8
+Applications - Education Wise,RPO Guwahati,GRADUATE AND ABOVE,1060,4521,42655,29:09.8
+Applications - Age Wise Wise,RPO Guwahati,Between_18_to_35,1539,6537,64879,29:09.8
+Applications - Age Wise Wise,RPO Guwahati,Between_36_to_60,1073,4454,39207,29:09.8
+Applications - Age Wise Wise,RPO Guwahati,GreaterThan60,230,1003,8129,29:09.8
+Applications - Age Wise Wise,RPO Guwahati,LessThan18,331,1405,12061,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Guwahati,Challan,42850,191800,3430900,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Guwahati,Credit/ Debit Card,2044450,11059400,100163550,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Guwahati,Online,1121850,6680550,66077150,29:09.8
+Applications Received - Service Wise,RPO Guwahati,FRESH,2607,11028,101969,29:09.8
+Applications Received - Service Wise,RPO Guwahati,PCC,73,311,2805,29:09.8
+Applications Received - Service Wise,RPO Guwahati,REISSUE,492,2056,19493,29:09.8
+Applications Granted - PV Mode wise,RPO Guwahati,No Verification,405,1903,17684,29:09.8
+Applications Granted - PV Mode wise,RPO Guwahati,Post Verification,508,2587,22381,29:09.8
+Applications Granted - PV Mode wise,RPO Guwahati,Pre Verification,1113,4342,43566,29:09.8
+PV Processing Time,RPO Guwahati,More than 21 Days,1419,6827,64230,29:09.8
+PV Processing Time,RPO Guwahati,Within 21 Days,189,610,6090,29:09.8
+Applications Received - Scheme wise,RPO Hyderabad,Normal,9940,46251,455010,29:09.8
+Applications Received - Scheme wise,RPO Hyderabad,Tatkaal,342,1421,15714,29:09.8
+Applications Received - Gender wise,RPO Hyderabad,FEMALE,3921,18916,182816,29:09.8
+Applications Received - Gender wise,RPO Hyderabad,MALE,6358,28738,287793,29:09.8
+Applications with Aadhaar Number,RPO Hyderabad,Count of Applications,10279,47655,470621,29:09.8
+Applications - Education Wise,RPO Hyderabad,10TH PASS AND ABOVE,3256,15256,152407,29:09.8
+Applications - Education Wise,RPO Hyderabad,GRADUATE AND ABOVE,3411,15332,157847,29:09.8
+Applications - Age Wise Wise,RPO Hyderabad,Between_18_to_35,5327,23411,235643,29:09.8
+Applications - Age Wise Wise,RPO Hyderabad,Between_36_to_60,2857,13193,132118,29:09.8
+Applications - Age Wise Wise,RPO Hyderabad,GreaterThan60,606,2836,30425,29:09.8
+Applications - Age Wise Wise,RPO Hyderabad,LessThan18,1489,8215,72435,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Hyderabad,Challan,73300,353850,4153750,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Hyderabad,Credit/ Debit Card,6662950,32176800,313582500,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Hyderabad,Online,5036850,23648050,240724300,29:09.8
+Applications Received - Service Wise,RPO Hyderabad,FRESH,6447,29553,291380,29:09.8
+Applications Received - Service Wise,RPO Hyderabad,PCC,436,1932,18224,29:09.8
+Applications Received - Service Wise,RPO Hyderabad,REISSUE,3385,16115,160586,29:09.8
+Applications Granted - PV Mode wise,RPO Hyderabad,No Verification,2554,11386,116427,29:09.8
+Applications Granted - PV Mode wise,RPO Hyderabad,Post Verification,1269,6332,58083,29:09.8
+Applications Granted - PV Mode wise,RPO Hyderabad,Pre Verification,6277,28696,278947,29:09.8
+PV Processing Time,RPO Hyderabad,Within 21 Days,5774,27332,289615,29:09.8
+Applications Received - Scheme wise,RPO Jaipur,Normal,6131,30227,305331,29:09.8
+Applications Received - Scheme wise,RPO Jaipur,Tatkaal,418,1742,15399,29:09.8
+Applications Received - Gender wise,RPO Jaipur,FEMALE,1982,9299,93876,29:09.8
+Applications Received - Gender wise,RPO Jaipur,MALE,4567,22670,226833,29:09.8
+Applications with Aadhaar Number,RPO Jaipur,Count of Applications,6549,31969,320726,29:09.8
+Applications - Education Wise,RPO Jaipur,10TH PASS AND ABOVE,1868,9656,98984,29:09.8
+Applications - Education Wise,RPO Jaipur,GRADUATE AND ABOVE,2222,9499,97211,29:09.8
+Applications - Age Wise Wise,RPO Jaipur,Between_18_to_35,3740,18141,179434,29:09.8
+Applications - Age Wise Wise,RPO Jaipur,Between_36_to_60,1705,8631,88505,29:09.8
+Applications - Age Wise Wise,RPO Jaipur,GreaterThan60,426,2046,19284,29:09.8
+Applications - Age Wise Wise,RPO Jaipur,LessThan18,678,3151,33503,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jaipur,Challan,101000,598150,7740750,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jaipur,Credit/ Debit Card,4225350,19192800,213574150,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jaipur,Online,3318050,15546150,178812600,29:09.8
+Applications Received - Service Wise,RPO Jaipur,FRESH,4761,23193,231224,29:09.8
+Applications Received - Service Wise,RPO Jaipur,PCC,237,1476,14534,29:09.8
+Applications Received - Service Wise,RPO Jaipur,REISSUE,1549,7294,74897,29:09.8
+Applications Granted - PV Mode wise,RPO Jaipur,No Verification,482,2504,24430,29:09.8
+Applications Granted - PV Mode wise,RPO Jaipur,Post Verification,725,3391,34136,29:09.8
+Applications Granted - PV Mode wise,RPO Jaipur,Pre Verification,3410,16839,163197,29:09.8
+PV Processing Time,RPO Jaipur,More than 21 Days,1263,7322,54270,29:09.8
+PV Processing Time,RPO Jaipur,Within 21 Days,2834,16655,188138,29:09.8
+Applications Received - Scheme wise,RPO Jalandhar,Normal,5010,27444,339453,29:09.8
+Applications Received - Gender wise,RPO Jalandhar,FEMALE,2051,11030,137653,29:09.8
+Applications Received - Gender wise,RPO Jalandhar,MALE,2974,16487,202632,29:09.8
+Applications with Aadhaar Number,RPO Jalandhar,Count of Applications,5025,27517,340291,29:09.8
+Applications - Education Wise,RPO Jalandhar,10TH PASS AND ABOVE,2481,13741,172183,29:09.8
+Applications - Education Wise,RPO Jalandhar,GRADUATE AND ABOVE,635,2898,34532,29:09.8
+Applications - Age Wise Wise,RPO Jalandhar,Between_18_to_35,2610,14263,176837,29:09.8
+Applications - Age Wise Wise,RPO Jalandhar,Between_36_to_60,1354,7720,96899,29:09.8
+Applications - Age Wise Wise,RPO Jalandhar,GreaterThan60,362,1923,23079,29:09.8
+Applications - Age Wise Wise,RPO Jalandhar,LessThan18,699,3611,43476,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jalandhar,Challan,85900,470150,9093300,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jalandhar,Credit/ Debit Card,3902700,18621500,213505250,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jalandhar,Online,2365500,11782900,161482500,29:09.8
+Applications Received - Service Wise,RPO Jalandhar,FRESH,2557,14179,180452,29:09.8
+Applications Received - Service Wise,RPO Jalandhar,PCC,547,3138,28194,29:09.8
+Applications Received - Service Wise,RPO Jalandhar,REISSUE,1921,10200,131642,29:09.8
+Applications Granted - PV Mode wise,RPO Jalandhar,No Verification,401,1984,22994,29:09.8
+Applications Granted - PV Mode wise,RPO Jalandhar,Post Verification,314,1502,22088,29:09.8
+Applications Granted - PV Mode wise,RPO Jalandhar,Pre Verification,4316,24036,294746,29:09.8
+PV Processing Time,RPO Jalandhar,More than 21 Days,160,841,9214,29:09.8
+PV Processing Time,RPO Jalandhar,Within 21 Days,6006,24889,288860,29:09.8
+Applications Received - Scheme wise,RPO Jammu,Normal,962,4391,46964,29:09.8
+Applications Received - Gender wise,RPO Jammu,FEMALE,274,1260,13484,29:09.8
+Applications Received - Gender wise,RPO Jammu,MALE,688,3130,33037,29:09.8
+Applications with Aadhaar Number,RPO Jammu,Count of Applications,962,4391,46522,29:09.8
+Applications - Education Wise,RPO Jammu,10TH PASS AND ABOVE,499,2192,25342,29:09.8
+Applications - Education Wise,RPO Jammu,GRADUATE AND ABOVE,130,654,4354,29:09.8
+Applications - Age Wise Wise,RPO Jammu,Between_18_to_35,556,2443,26147,29:09.8
+Applications - Age Wise Wise,RPO Jammu,Between_36_to_60,246,1149,12379,29:09.8
+Applications - Age Wise Wise,RPO Jammu,GreaterThan60,82,377,3679,29:09.8
+Applications - Age Wise Wise,RPO Jammu,LessThan18,78,422,4317,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jammu,Challan,27850,106750,1509250,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jammu,Credit/ Debit Card,913550,3616100,37737400,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Jammu,Online,382750,1718750,18954000,29:09.8
+Applications Received - Service Wise,RPO Jammu,FRESH,708,3353,34823,29:09.8
+Applications Received - Service Wise,RPO Jammu,PCC,39,183,3026,29:09.8
+Applications Received - Service Wise,RPO Jammu,REISSUE,213,851,9107,29:09.8
+Applications Granted - PV Mode wise,RPO Jammu,Pre Verification,856,3967,40243,29:09.8
+PV Processing Time,RPO Jammu,More than 21 Days,576,3931,43146,29:09.8
+Applications Received - Scheme wise,RPO Kolkata,Normal,12580,50648,514685,29:09.8
+Applications Received - Scheme wise,RPO Kolkata,Tatkaal,606,2754,21888,29:09.8
+Applications Received - Gender wise,RPO Kolkata,FEMALE,4351,17113,173990,29:09.8
+Applications Received - Gender wise,RPO Kolkata,MALE,8834,36281,362517,29:09.8
+Applications with Aadhaar Number,RPO Kolkata,Count of Applications,13186,53400,536558,29:09.8
+Applications - Education Wise,RPO Kolkata,10TH PASS AND ABOVE,3936,16448,168726,29:09.8
+Applications - Education Wise,RPO Kolkata,GRADUATE AND ABOVE,3243,13378,134815,29:09.8
+Applications - Age Wise Wise,RPO Kolkata,Between_18_to_35,6189,26062,264772,29:09.8
+Applications - Age Wise Wise,RPO Kolkata,Between_36_to_60,4368,17256,172295,29:09.8
+Applications - Age Wise Wise,RPO Kolkata,GreaterThan60,1122,4366,44410,29:09.8
+Applications - Age Wise Wise,RPO Kolkata,LessThan18,1507,5716,55081,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Kolkata,Challan,456700,1794000,25407800,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Kolkata,Credit/ Debit Card,7887000,38012150,374478100,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Kolkata,Online,5888100,26883600,301280950,29:09.8
+Applications Received - Service Wise,RPO Kolkata,FRESH,9778,39127,390402,29:09.8
+Applications Received - Service Wise,RPO Kolkata,PCC,414,2081,23109,29:09.8
+Applications Received - Service Wise,RPO Kolkata,REISSUE,2988,12169,122911,29:09.8
+Applications Granted - PV Mode wise,RPO Kolkata,No Verification,2046,8311,91816,29:09.8
+Applications Granted - PV Mode wise,RPO Kolkata,Post Verification,2060,8460,77521,29:09.8
+Applications Granted - PV Mode wise,RPO Kolkata,Pre Verification,5844,23395,231884,29:09.8
+PV Processing Time,RPO Kolkata,More than 21 Days,2961,17293,168821,29:09.8
+PV Processing Time,RPO Kolkata,Within 21 Days,3184,14274,167206,29:09.8
+Applications Received - Scheme wise,RPO Kozhikode,Normal,10926,47029,428973,29:09.8
+Applications Received - Scheme wise,RPO Kozhikode,Tatkaal,381,1790,17146,29:09.8
+Applications Received - Gender wise,RPO Kozhikode,FEMALE,5002,21063,190445,29:09.8
+Applications Received - Gender wise,RPO Kozhikode,MALE,6305,27756,255667,29:09.8
+Applications with Aadhaar Number,RPO Kozhikode,Count of Applications,11307,48819,446114,29:09.8
+Applications - Education Wise,RPO Kozhikode,10TH PASS AND ABOVE,4524,20000,185190,29:09.8
+Applications - Education Wise,RPO Kozhikode,GRADUATE AND ABOVE,1035,4259,39915,29:09.8
+Applications - Age Wise Wise,RPO Kozhikode,Between_18_to_35,4491,19826,187790,29:09.8
+Applications - Age Wise Wise,RPO Kozhikode,Between_36_to_60,3165,13493,113604,29:09.8
+Applications - Age Wise Wise,RPO Kozhikode,GreaterThan60,783,3260,26158,29:09.8
+Applications - Age Wise Wise,RPO Kozhikode,LessThan18,2868,12240,118562,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Kozhikode,Challan,69100,245150,2943650,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Kozhikode,Credit/ Debit Card,5068750,22675100,178056250,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Kozhikode,Online,7825800,35762150,341680150,29:09.8
+Applications Received - Service Wise,RPO Kozhikode,FRESH,6157,26308,241532,29:09.8
+Applications Received - Service Wise,RPO Kozhikode,PCC,343,1650,15862,29:09.8
+Applications Received - Service Wise,RPO Kozhikode,REISSUE,4806,20859,188704,29:09.8
+Applications Granted - PV Mode wise,RPO Kozhikode,No Verification,2520,10820,105926,29:09.8
+Applications Granted - PV Mode wise,RPO Kozhikode,Post Verification,3191,13531,120216,29:09.8
+Applications Granted - PV Mode wise,RPO Kozhikode,Pre Verification,5554,24282,211239,29:09.8
+PV Processing Time,RPO Kozhikode,Within 21 Days,6130,22944,213277,29:09.8
+Applications Received - Scheme wise,RPO Lucknow,Normal,11333,54301,509773,29:09.8
+Applications Received - Scheme wise,RPO Lucknow,Tatkaal,152,693,7176,29:09.8
+Applications Received - Gender wise,RPO Lucknow,FEMALE,2217,9855,91775,29:09.8
+Applications Received - Gender wise,RPO Lucknow,MALE,9268,45137,425142,29:09.8
+Applications with Aadhaar Number,RPO Lucknow,Count of Applications,11485,54993,516940,29:09.8
+Applications - Education Wise,RPO Lucknow,10TH PASS AND ABOVE,3991,19730,191948,29:09.8
+Applications - Education Wise,RPO Lucknow,GRADUATE AND ABOVE,2453,10302,103918,29:09.8
+Applications - Age Wise Wise,RPO Lucknow,Between_18_to_35,7968,38178,358572,29:09.8
+Applications - Age Wise Wise,RPO Lucknow,Between_36_to_60,2267,11317,107075,29:09.8
+Applications - Age Wise Wise,RPO Lucknow,GreaterThan60,639,2977,25295,29:09.8
+Applications - Age Wise Wise,RPO Lucknow,LessThan18,611,2521,25998,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Lucknow,Challan,78900,503250,6590500,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Lucknow,Credit/ Debit Card,6255500,32980250,296378850,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Lucknow,Online,6530750,34321700,357500900,29:09.8
+Applications Received - Service Wise,RPO Lucknow,FRESH,8322,40124,371490,29:09.8
+Applications Received - Service Wise,RPO Lucknow,PCC,1106,5201,46797,29:09.8
+Applications Received - Service Wise,RPO Lucknow,REISSUE,2054,9659,98578,29:09.8
+Applications Granted - PV Mode wise,RPO Lucknow,No Verification,1049,4685,46568,29:09.8
+Applications Granted - PV Mode wise,RPO Lucknow,Post Verification,480,2401,30857,29:09.8
+Applications Granted - PV Mode wise,RPO Lucknow,Pre Verification,9439,47661,389812,29:09.8
+PV Processing Time,RPO Lucknow,More than 21 Days,1168,4751,48650,29:09.8
+PV Processing Time,RPO Lucknow,Within 21 Days,8486,44390,381930,29:09.8
+Applications Received - Scheme wise,RPO Madurai,Normal,4086,19094,206711,29:09.8
+Applications Received - Gender wise,RPO Madurai,FEMALE,1320,6345,66060,29:09.8
+Applications Received - Gender wise,RPO Madurai,MALE,2772,12780,141025,29:09.8
+Applications with Aadhaar Number,RPO Madurai,Count of Applications,4092,19126,207090,29:09.8
+Applications - Education Wise,RPO Madurai,10TH PASS AND ABOVE,1373,7153,78158,29:09.8
+Applications - Education Wise,RPO Madurai,GRADUATE AND ABOVE,1330,5757,60865,29:09.8
+Applications - Age Wise Wise,RPO Madurai,Between_18_to_35,2348,10896,117560,29:09.8
+Applications - Age Wise Wise,RPO Madurai,Between_36_to_60,897,4638,50397,29:09.8
+Applications - Age Wise Wise,RPO Madurai,GreaterThan60,207,1070,11996,29:09.8
+Applications - Age Wise Wise,RPO Madurai,LessThan18,640,2522,27137,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Madurai,Challan,36200,320600,3196200,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Madurai,Credit/ Debit Card,2266300,9633000,103168700,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Madurai,Online,1823200,7734850,98189100,29:09.8
+Applications Received - Service Wise,RPO Madurai,FRESH,2522,12047,132343,29:09.8
+Applications Received - Service Wise,RPO Madurai,PCC,266,1195,12364,29:09.8
+Applications Received - Service Wise,RPO Madurai,REISSUE,1303,5879,62360,29:09.8
+Applications Granted - PV Mode wise,RPO Madurai,No Verification,540,2180,25900,29:09.8
+Applications Granted - PV Mode wise,RPO Madurai,Post Verification,636,2882,31048,29:09.8
+Applications Granted - PV Mode wise,RPO Madurai,Pre Verification,2154,11534,127928,29:09.8
+PV Processing Time,RPO Madurai,Within 21 Days,2302,12920,142875,29:09.8
+Applications Received - Scheme wise,RPO Mumbai,Normal,13390,60454,666745,29:09.8
+Applications Received - Scheme wise,RPO Mumbai,Tatkaal,750,3384,35632,29:09.8
+Applications Received - Gender wise,RPO Mumbai,FEMALE,6169,26946,301535,29:09.8
+Applications Received - Gender wise,RPO Mumbai,MALE,7968,36858,400373,29:09.8
+Applications with Aadhaar Number,RPO Mumbai,Count of Applications,14137,63806,701932,29:09.8
+Applications - Education Wise,RPO Mumbai,10TH PASS AND ABOVE,4344,20143,229549,29:09.8
+Applications - Education Wise,RPO Mumbai,GRADUATE AND ABOVE,5406,24833,277175,29:09.8
+Applications - Age Wise Wise,RPO Mumbai,Between_18_to_35,5773,27082,298922,29:09.8
+Applications - Age Wise Wise,RPO Mumbai,Between_36_to_60,4157,20116,225075,29:09.8
+Applications - Age Wise Wise,RPO Mumbai,GreaterThan60,1073,5737,64156,29:09.8
+Applications - Age Wise Wise,RPO Mumbai,LessThan18,3134,10871,113779,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Mumbai,Challan,342050,1872350,27711000,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Mumbai,Credit/ Debit Card,12274750,58278750,651091300,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Mumbai,Online,2586250,13016000,152249750,29:09.8
+Applications Received - Service Wise,RPO Mumbai,FRESH,7271,33549,372819,29:09.8
+Applications Received - Service Wise,RPO Mumbai,PCC,486,2549,24885,29:09.8
+Applications Received - Service Wise,RPO Mumbai,REISSUE,6359,27630,303546,29:09.8
+Applications Granted - PV Mode wise,RPO Mumbai,No Verification,2255,9417,111343,29:09.8
+Applications Granted - PV Mode wise,RPO Mumbai,Post Verification,2301,10407,118219,29:09.8
+Applications Granted - PV Mode wise,RPO Mumbai,Pre Verification,7759,36219,420696,29:09.8
+PV Processing Time,RPO Mumbai,More than 21 Days,2791,9704,102864,29:09.8
+PV Processing Time,RPO Mumbai,Within 21 Days,4513,30461,363731,29:09.8
+Applications Received - Scheme wise,RPO Nagpur,Normal,2350,9008,98415,29:09.8
+Applications Received - Scheme wise,RPO Nagpur,Tatkaal,108,355,3538,29:09.8
+Applications Received - Gender wise,RPO Nagpur,FEMALE,1020,3785,41103,29:09.8
+Applications Received - Gender wise,RPO Nagpur,MALE,1438,5578,60841,29:09.8
+Applications with Aadhaar Number,RPO Nagpur,Count of Applications,2458,9363,101949,29:09.8
+Applications - Education Wise,RPO Nagpur,10TH PASS AND ABOVE,765,3206,37050,29:09.8
+Applications - Education Wise,RPO Nagpur,GRADUATE AND ABOVE,1162,3884,41340,29:09.8
+Applications - Age Wise Wise,RPO Nagpur,Between_18_to_35,1333,4416,47549,29:09.8
+Applications - Age Wise Wise,RPO Nagpur,Between_36_to_60,669,3004,33118,29:09.8
+Applications - Age Wise Wise,RPO Nagpur,GreaterThan60,157,903,9576,29:09.8
+Applications - Age Wise Wise,RPO Nagpur,LessThan18,299,1040,11706,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Nagpur,Challan,50800,248750,3199200,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Nagpur,Credit/ Debit Card,1874100,8214250,86858600,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Nagpur,Online,689100,3413100,40507800,29:09.8
+Applications Received - Service Wise,RPO Nagpur,FRESH,1878,7021,75560,29:09.8
+Applications Received - Service Wise,RPO Nagpur,PCC,35,162,2400,29:09.8
+Applications Received - Service Wise,RPO Nagpur,REISSUE,544,2176,23956,29:09.8
+Applications Granted - PV Mode wise,RPO Nagpur,No Verification,178,635,11766,29:09.8
+Applications Granted - PV Mode wise,RPO Nagpur,Post Verification,328,1358,11149,29:09.8
+Applications Granted - PV Mode wise,RPO Nagpur,Pre Verification,808,4004,47878,29:09.8
+PV Processing Time,RPO Nagpur,More than 21 Days,694,1509,13515,29:09.8
+PV Processing Time,RPO Nagpur,Within 21 Days,1712,4526,58477,29:09.8
+Applications Received - Scheme wise,RPO Patna,Normal,5814,28401,253702,29:09.8
+Applications Received - Scheme wise,RPO Patna,Tatkaal,111,445,5378,29:09.8
+Applications Received - Gender wise,RPO Patna,FEMALE,865,3598,31336,29:09.8
+Applications Received - Gender wise,RPO Patna,MALE,5060,25248,227740,29:09.8
+Applications with Aadhaar Number,RPO Patna,Count of Applications,5925,28846,259078,29:09.8
+Applications - Education Wise,RPO Patna,10TH PASS AND ABOVE,2226,11178,104361,29:09.8
+Applications - Education Wise,RPO Patna,GRADUATE AND ABOVE,1130,4914,43807,29:09.8
+Applications - Age Wise Wise,RPO Patna,Between_18_to_35,4381,21691,196783,29:09.8
+Applications - Age Wise Wise,RPO Patna,Between_36_to_60,1037,5010,45016,29:09.8
+Applications - Age Wise Wise,RPO Patna,GreaterThan60,280,1179,8324,29:09.8
+Applications - Age Wise Wise,RPO Patna,LessThan18,227,966,8955,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Patna,Challan,11850,119950,1717150,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Patna,Credit/ Debit Card,3456850,18073450,159382250,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Patna,Online,2861000,16681950,176562250,29:09.8
+Applications Received - Service Wise,RPO Patna,FRESH,4454,21794,193746,29:09.8
+Applications Received - Service Wise,RPO Patna,PCC,506,2340,21374,29:09.8
+Applications Received - Service Wise,RPO Patna,REISSUE,964,4711,43946,29:09.8
+Applications Granted - PV Mode wise,RPO Patna,No Verification,508,2394,26372,29:09.8
+Applications Granted - PV Mode wise,RPO Patna,Post Verification,280,1231,12595,29:09.8
+Applications Granted - PV Mode wise,RPO Patna,Pre Verification,3827,17834,137154,29:09.8
+PV Processing Time,RPO Patna,More than 21 Days,485,4620,68101,29:09.8
+PV Processing Time,RPO Patna,Within 21 Days,3603,18087,144709,29:09.8
+Applications Received - Scheme wise,RPO Pune,Normal,6210,29149,322853,29:09.8
+Applications Received - Scheme wise,RPO Pune,Tatkaal,109,818,14257,29:09.8
+Applications Received - Gender wise,RPO Pune,FEMALE,2670,11860,134661,29:09.8
+Applications Received - Gender wise,RPO Pune,MALE,3647,18099,202397,29:09.8
+Applications with Aadhaar Number,RPO Pune,Count of Applications,6318,29961,337074,29:09.8
+Applications - Education Wise,RPO Pune,10TH PASS AND ABOVE,1828,8974,104785,29:09.8
+Applications - Education Wise,RPO Pune,GRADUATE AND ABOVE,2708,13035,148098,29:09.8
+Applications - Age Wise Wise,RPO Pune,Between_18_to_35,2944,13999,158323,29:09.8
+Applications - Age Wise Wise,RPO Pune,Between_36_to_60,1705,8811,101193,29:09.8
+Applications - Age Wise Wise,RPO Pune,GreaterThan60,433,2485,27100,29:09.8
+Applications - Age Wise Wise,RPO Pune,LessThan18,1236,4666,50458,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Pune,Challan,106250,424000,6923100,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Pune,Credit/ Debit Card,5164500,24888200,284026700,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Pune,Online,1539750,7400000,92199350,29:09.8
+Applications Received - Service Wise,RPO Pune,FRESH,4076,19564,223852,29:09.8
+Applications Received - Service Wise,RPO Pune,PCC,233,998,10095,29:09.8
+Applications Received - Service Wise,RPO Pune,REISSUE,1997,9375,102969,29:09.8
+Applications Granted - PV Mode wise,RPO Pune,No Verification,733,2882,36982,29:09.8
+Applications Granted - PV Mode wise,RPO Pune,Post Verification,708,3652,45535,29:09.8
+Applications Granted - PV Mode wise,RPO Pune,Pre Verification,3766,17926,195958,29:09.8
+PV Processing Time,RPO Pune,More than 21 Days,1666,5590,57814,29:09.8
+PV Processing Time,RPO Pune,Within 21 Days,4486,17290,198151,29:09.8
+Applications Received - Scheme wise,RPO Raipur,Normal,794,4288,47702,29:09.8
+Applications Received - Gender wise,RPO Raipur,FEMALE,328,1687,18902,29:09.8
+Applications Received - Gender wise,RPO Raipur,MALE,484,2685,29892,29:09.8
+Applications with Aadhaar Number,RPO Raipur,Count of Applications,812,4372,48796,29:09.8
+Applications - Education Wise,RPO Raipur,10TH PASS AND ABOVE,231,1322,16157,29:09.8
+Applications - Education Wise,RPO Raipur,GRADUATE AND ABOVE,374,1804,19640,29:09.8
+Applications - Age Wise Wise,RPO Raipur,Between_18_to_35,385,2047,22582,29:09.8
+Applications - Age Wise Wise,RPO Raipur,Between_36_to_60,230,1429,16417,29:09.8
+Applications - Age Wise Wise,RPO Raipur,GreaterThan60,52,295,3401,29:09.8
+Applications - Age Wise Wise,RPO Raipur,LessThan18,145,601,6396,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Raipur,Challan,5850,40900,887550,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Raipur,Credit/ Debit Card,642600,3149100,35804050,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Raipur,Online,485650,2504550,28671650,29:09.8
+Applications Received - Service Wise,RPO Raipur,FRESH,559,3256,36155,29:09.8
+Applications Received - Service Wise,RPO Raipur,REISSUE,246,1069,12075,29:09.8
+Applications Granted - PV Mode wise,RPO Raipur,No Verification,63,382,3761,29:09.8
+Applications Granted - PV Mode wise,RPO Raipur,Post Verification,57,335,3591,29:09.8
+Applications Granted - PV Mode wise,RPO Raipur,Pre Verification,575,2849,26500,29:09.8
+PV Processing Time,RPO Raipur,More than 21 Days,407,1558,16298,29:09.8
+PV Processing Time,RPO Raipur,Within 21 Days,373,1848,24064,29:09.8
+Applications Received - Scheme wise,RPO Ranchi,Normal,1914,8961,82769,29:09.8
+Applications Received - Scheme wise,RPO Ranchi,Tatkaal,49,191,1711,29:09.8
+Applications Received - Gender wise,RPO Ranchi,FEMALE,559,2535,23644,29:09.8
+Applications Received - Gender wise,RPO Ranchi,MALE,1404,6616,60824,29:09.8
+Applications with Aadhaar Number,RPO Ranchi,Count of Applications,1963,9151,84474,29:09.8
+Applications - Education Wise,RPO Ranchi,10TH PASS AND ABOVE,697,3446,33577,29:09.8
+Applications - Education Wise,RPO Ranchi,GRADUATE AND ABOVE,735,2985,29353,29:09.8
+Applications - Age Wise Wise,RPO Ranchi,Between_18_to_35,1196,5442,50935,29:09.8
+Applications - Age Wise Wise,RPO Ranchi,Between_36_to_60,496,2384,21594,29:09.8
+Applications - Age Wise Wise,RPO Ranchi,GreaterThan60,147,717,5573,29:09.8
+Applications - Age Wise Wise,RPO Ranchi,LessThan18,124,608,6372,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ranchi,Challan,25850,92000,1332100,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ranchi,Credit/ Debit Card,1508700,7492700,70144000,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Ranchi,Online,681100,3705950,37388700,29:09.8
+Applications Received - Service Wise,RPO Ranchi,FRESH,1510,7185,64671,29:09.8
+Applications Received - Service Wise,RPO Ranchi,PCC,72,413,3897,29:09.8
+Applications Received - Service Wise,RPO Ranchi,REISSUE,380,1549,15896,29:09.8
+Applications Granted - PV Mode wise,RPO Ranchi,No Verification,127,796,8690,29:09.8
+Applications Granted - PV Mode wise,RPO Ranchi,Post Verification,176,892,8556,29:09.8
+Applications Granted - PV Mode wise,RPO Ranchi,Pre Verification,689,5093,45293,29:09.8
+PV Processing Time,RPO Ranchi,More than 21 Days,171,2436,20822,29:09.8
+PV Processing Time,RPO Ranchi,Within 21 Days,811,4103,42837,29:09.8
+Applications Received - Scheme wise,RPO Shimla,Normal,1093,4306,47940,29:09.8
+Applications Received - Gender wise,RPO Shimla,FEMALE,313,1165,13567,29:09.8
+Applications Received - Gender wise,RPO Shimla,MALE,789,3177,35060,29:09.8
+Applications with Aadhaar Number,RPO Shimla,Count of Applications,1102,4342,48631,29:09.8
+Applications - Education Wise,RPO Shimla,10TH PASS AND ABOVE,508,2133,24370,29:09.8
+Applications - Education Wise,RPO Shimla,GRADUATE AND ABOVE,421,1574,17242,29:09.8
+Applications - Age Wise Wise,RPO Shimla,Between_18_to_35,690,2739,30485,29:09.8
+Applications - Age Wise Wise,RPO Shimla,Between_36_to_60,247,1034,12208,29:09.8
+Applications - Age Wise Wise,RPO Shimla,GreaterThan60,47,225,2417,29:09.8
+Applications - Age Wise Wise,RPO Shimla,LessThan18,118,344,3521,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Shimla,Challan,9000,54250,723250,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Shimla,Credit/ Debit Card,1022300,4070100,43098850,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Shimla,Online,405400,1586100,20020650,29:09.8
+Applications Received - Service Wise,RPO Shimla,FRESH,795,3043,34929,29:09.8
+Applications Received - Service Wise,RPO Shimla,PCC,50,251,2203,29:09.8
+Applications Received - Service Wise,RPO Shimla,REISSUE,255,1047,11494,29:09.8
+Applications Granted - PV Mode wise,RPO Shimla,No Verification,45,183,1618,29:09.8
+Applications Granted - PV Mode wise,RPO Shimla,Post Verification,92,395,4441,29:09.8
+Applications Granted - PV Mode wise,RPO Shimla,Pre Verification,724,2692,28663,29:09.8
+PV Processing Time,RPO Shimla,More than 21 Days,61,401,3899,29:09.8
+PV Processing Time,RPO Shimla,Within 21 Days,775,3198,38222,29:09.8
+Applications Received - Scheme wise,RPO Srinagar,Normal,1290,4581,58101,29:09.8
+Applications Received - Gender wise,RPO Srinagar,FEMALE,514,1887,22204,29:09.8
+Applications Received - Gender wise,RPO Srinagar,MALE,776,2694,35689,29:09.8
+Applications with Aadhaar Number,RPO Srinagar,Count of Applications,1290,4581,57893,29:09.8
+Applications - Education Wise,RPO Srinagar,10TH PASS AND ABOVE,361,1268,17532,29:09.8
+Applications - Education Wise,RPO Srinagar,GRADUATE AND ABOVE,309,1239,10662,29:09.8
+Applications - Age Wise Wise,RPO Srinagar,Between_18_to_35,427,1591,22525,29:09.8
+Applications - Age Wise Wise,RPO Srinagar,Between_36_to_60,457,1563,21036,29:09.8
+Applications - Age Wise Wise,RPO Srinagar,GreaterThan60,219,789,9170,29:09.8
+Applications - Age Wise Wise,RPO Srinagar,LessThan18,187,638,5162,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Srinagar,Challan,109950,484500,2227700,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Srinagar,Credit/ Debit Card,753450,3603600,43186750,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Srinagar,Online,129600,906200,16260650,29:09.8
+Applications Received - Service Wise,RPO Srinagar,FRESH,939,3117,47723,29:09.8
+Applications Received - Service Wise,RPO Srinagar,REISSUE,338,1417,9728,29:09.8
+Applications Granted - PV Mode wise,RPO Srinagar,Pre Verification,1159,4008,37443,29:09.8
+PV Processing Time,RPO Srinagar,More than 21 Days,685,3026,61003,29:09.8
+PV Processing Time,RPO Srinagar,Within 21 Days,81,117,928,29:09.8
+Applications Received - Scheme wise,RPO Surat,Normal,1671,13444,149428,29:09.8
+Applications Received - Scheme wise,RPO Surat,Tatkaal,36,263,3297,29:09.8
+Applications Received - Gender wise,RPO Surat,FEMALE,633,5407,59375,29:09.8
+Applications Received - Gender wise,RPO Surat,MALE,1074,8300,93320,29:09.8
+Applications with Aadhaar Number,RPO Surat,Count of Applications,1707,13707,152699,29:09.8
+Applications - Education Wise,RPO Surat,10TH PASS AND ABOVE,682,5537,63660,29:09.8
+Applications - Education Wise,RPO Surat,GRADUATE AND ABOVE,462,2943,34909,29:09.8
+Applications - Age Wise Wise,RPO Surat,Between_18_to_35,816,6120,70735,29:09.8
+Applications - Age Wise Wise,RPO Surat,Between_36_to_60,502,4171,46429,29:09.8
+Applications - Age Wise Wise,RPO Surat,GreaterThan60,97,950,9817,29:09.8
+Applications - Age Wise Wise,RPO Surat,LessThan18,292,2466,25718,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Surat,Challan,45400,606450,10139100,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Surat,Credit/ Debit Card,1469100,10504450,123203550,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Surat,Online,483800,4147800,51573550,29:09.8
+Applications Received - Service Wise,RPO Surat,FRESH,962,7950,91980,29:09.8
+Applications Received - Service Wise,RPO Surat,PCC,223,968,9041,29:09.8
+Applications Received - Service Wise,RPO Surat,REISSUE,522,4786,51642,29:09.8
+Applications Granted - PV Mode wise,RPO Surat,No Verification,439,2534,22591,29:09.8
+Applications Granted - PV Mode wise,RPO Surat,Post Verification,74,1191,17610,29:09.8
+Applications Granted - PV Mode wise,RPO Surat,Pre Verification,944,9649,111886,29:09.8
+PV Processing Time,RPO Surat,Within 21 Days,2049,11551,116710,29:09.8
+Applications Received - Scheme wise,RPO Trichy,Normal,4588,12586,116878,03:38.8
+Applications Received - Gender wise,RPO Trichy,FEMALE,1066,2982,29852,03:38.8
+Applications Received - Gender wise,RPO Trichy,MALE,3525,10343,88569,03:38.8
+Applications with Aadhaar Number,RPO Trichy,Count of Applications,4591,13325,118421,03:38.8
+Applications - Education Wise,RPO Trichy,10TH PASS AND ABOVE,1560,4564,38900,03:38.8
+Applications - Education Wise,RPO Trichy,5TH PASS OR LESS,680,2016,20356,03:38.8
+Applications - Education Wise,RPO Trichy,BETWEEN 6TH AND 9TH STANDARD,1125,3045,30534,03:38.8
+Applications - Education Wise,RPO Trichy,GRADUATE AND ABOVE,1226,3699,28594,03:38.8
+Applications - Age Wise Wise,RPO Trichy,Between_18_to_35,2904,8560,71745,03:38.8
+Applications - Age Wise Wise,RPO Trichy,Between_36_to_60,1115,3098,30094,03:38.8
+Applications - Age Wise Wise,RPO Trichy,GreaterThan60,156,460,4786,03:38.8
+Applications - Age Wise Wise,RPO Trichy,LessThan18,416,1207,11796,03:38.8
+Application Fee Online Payment - Mode Wise,RPO Trichy,Challan,234000,802500,8931500,03:38.8
+Application Fee Online Payment - Mode Wise,RPO Trichy,Credit/ Debit Card,2245500,7437000,64176500,03:38.8
+Application Fee Online Payment - Mode Wise,RPO Trichy,Online,3529000,11228000,95205500,03:38.8
+Applications Received - Service Wise,RPO Trichy,FRESH,2889,8071,70047,03:38.8
+Applications Received - Service Wise,RPO Trichy,PCC,175,470,5376,03:38.8
+Applications Received - Service Wise,RPO Trichy,REISSUE,1527,4051,41563,03:38.8
+Applications Granted - PV Mode wise,RPO Trichy,No Verification,1281,3544,36577,03:38.8
+Applications Granted - PV Mode wise,RPO Trichy,Post Verification,319,1011,8334,03:38.8
+Applications Granted - PV Mode wise,RPO Trichy,Pre Verification,2960,8524,71306,03:38.8
+PV Processing Time,RPO Trichy,More than 21 Days,1477,4571,48321,03:38.8
+PV Processing Time,RPO Trichy,Within 21 Days,1167,4945,27107,03:38.8
+Applications Received - Scheme wise,RPO Trivandrum,Normal,4054,19142,181543,29:09.8
+Applications Received - Scheme wise,RPO Trivandrum,Tatkaal,117,626,5366,29:09.8
+Applications Received - Gender wise,RPO Trivandrum,FEMALE,1685,8026,77738,29:09.8
+Applications Received - Gender wise,RPO Trivandrum,MALE,2486,11738,109143,29:09.8
+Applications with Aadhaar Number,RPO Trivandrum,Count of Applications,4171,19764,186882,29:09.8
+Applications - Education Wise,RPO Trivandrum,10TH PASS AND ABOVE,1961,9593,89629,29:09.8
+Applications - Education Wise,RPO Trivandrum,GRADUATE AND ABOVE,903,4112,40153,29:09.8
+Applications - Age Wise Wise,RPO Trivandrum,Between_18_to_35,2051,9709,91386,29:09.8
+Applications - Age Wise Wise,RPO Trivandrum,Between_36_to_60,1202,5603,51749,29:09.8
+Applications - Age Wise Wise,RPO Trivandrum,GreaterThan60,267,1331,13040,29:09.8
+Applications - Age Wise Wise,RPO Trivandrum,LessThan18,651,3121,30707,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Trivandrum,Challan,54800,214550,2862200,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Trivandrum,Credit/ Debit Card,1868200,8554000,77119950,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Trivandrum,Online,3162750,15082900,149268800,29:09.8
+Applications Received - Service Wise,RPO Trivandrum,FRESH,2094,10054,94941,29:09.8
+Applications Received - Service Wise,RPO Trivandrum,PCC,357,1665,15197,29:09.8
+Applications Received - Service Wise,RPO Trivandrum,REISSUE,1720,8044,76719,29:09.8
+Applications Granted - PV Mode wise,RPO Trivandrum,No Verification,539,2898,31276,29:09.8
+Applications Granted - PV Mode wise,RPO Trivandrum,Post Verification,1328,5992,55357,29:09.8
+Applications Granted - PV Mode wise,RPO Trivandrum,Pre Verification,2128,10112,93889,29:09.8
+PV Processing Time,RPO Trivandrum,Within 21 Days,2447,10484,97339,29:09.8
+Applications Received - Scheme wise,RPO Visakhapatnam,Normal,256,11519,130919,29:09.8
+Applications Received - Scheme wise,RPO Visakhapatnam,Tatkaal,37,158,1934,29:09.8
+Applications Received - Gender wise,RPO Visakhapatnam,FEMALE,924,4098,47863,29:09.8
+Applications Received - Gender wise,RPO Visakhapatnam,MALE,678,7577,84974,29:09.8
+Applications with Aadhaar Number,RPO Visakhapatnam,Count of Applications,250,11675,132837,29:09.8
+Applications - Education Wise,RPO Visakhapatnam,10TH PASS AND ABOVE,901,4370,55568,29:09.8
+Applications - Education Wise,RPO Visakhapatnam,GRADUATE AND ABOVE,816,3583,37735,29:09.8
+Applications - Age Wise Wise,RPO Visakhapatnam,Between_18_to_35,454,6669,79714,29:09.8
+Applications - Age Wise Wise,RPO Visakhapatnam,Between_36_to_60,814,3447,36661,29:09.8
+Applications - Age Wise Wise,RPO Visakhapatnam,GreaterThan60,121,626,6923,29:09.8
+Applications - Age Wise Wise,RPO Visakhapatnam,LessThan18,213,933,9539,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Visakhapatnam,Challan,850,71550,677700,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Visakhapatnam,Credit/ Debit Card,1505,7361200,85145700,29:09.8
+Application Fee Online Payment - Mode Wise,RPO Visakhapatnam,Online,600,7615750,93226100,29:09.8
+Applications Received - Service Wise,RPO Visakhapatnam,FRESH,733,8000,95664,29:09.8
+Applications Received - Service Wise,RPO Visakhapatnam,PCC,183,561,4593,29:09.8
+Applications Received - Service Wise,RPO Visakhapatnam,REISSUE,686,3102,32498,29:09.8
+Applications Granted - PV Mode wise,RPO Visakhapatnam,No Verification,565,2038,20340,29:09.8
+Applications Granted - PV Mode wise,RPO Visakhapatnam,Post Verification,129,726,9360,29:09.8
+Applications Granted - PV Mode wise,RPO Visakhapatnam,Pre Verification,1785,7793,90417,29:09.8
